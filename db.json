@@ -1,0 +1,72 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "author": "John Doe",
+      "date": "2 hours ago",
+      "title": "Welcome to the Community",
+      "content": "This is a sample post. Share your thoughts with the community!",
+      "likes": 15,
+      "comments": [
+        {
+          "author": "Jane Smith",
+          "text": "Great post!"
+        }
+      ]
+    },
+    {
+      "id": "5023",
+      "title": "dfghj",
+      "content": "dfgh",
+      "image": null,
+      "authorName": "rtyui",
+      "createdAt": "2026-02-02T12:15:38.942Z",
+      "likes": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "postId": "1",
+      "author": "Jane Smith",
+      "text": "Great post!",
+      "likes": 9,
+      "createdAt": "2026-02-02T10:00:00.000Z"
+    },
+    {
+      "id": "466d",
+      "postId": "1",
+      "content": "dfgfgh",
+      "authorName": "rtyui",
+      "createdAt": "2026-02-02T12:14:33.876Z",
+      "likes": 0
+    },
+    {
+      "id": "9c7b",
+      "postId": "5023",
+      "content": "cvb",
+      "authorName": "rtyui",
+      "createdAt": "2026-02-02T12:18:47.853Z",
+      "likes": 0
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "john@example.com"
+    },
+    {
+      "id": "ceab",
+      "name": "ritika",
+      "email": "ritika@gmail.com",
+      "createdAt": "2026-02-02T12:09:40.940Z"
+    },
+    {
+      "id": "ed36",
+      "name": "rtyui",
+      "email": "riti@gmail.com",
+      "createdAt": "2026-02-02T12:14:23.611Z"
+    }
+  ]
+}
